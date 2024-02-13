@@ -258,7 +258,7 @@ body {
   text-align: center;
   line-height: 25px;
   top: 20px;
-  left: 20px;
+  left: 10px;
   color: #003049;
 }
 
@@ -268,8 +268,19 @@ body {
   font-size: 28px;
   text-align: center;
   line-height: 35px;
-  top: 50px;
-  left: 20px;
+  top: 0px;
+  left: 10px;
+  color: #003049;
+}
+
+.text4 {
+  position: absolute;
+  font-family: "Brush Script MT", cursive;
+  font-size: 28px;
+  text-align: center;
+  line-height: 35px;
+  top: 60px;
+  left: 10px;
   color: #003049;
 }
 
@@ -277,7 +288,7 @@ body {
   position: absolute;
   font-family: "Brush Script MT", cursive;
   font-size: 28px;
-  top: 60px;
+  top: 80px;
   left: 80px;
   color: #003049;
 }
@@ -286,8 +297,8 @@ body {
   position: absolute;
   font-family: "Brush Script MT", cursive;
   font-size: 28px;
-  top: 60px;
-  left: 140px;
+  top: 80px;
+  left: 150px;
   color: #003049;
 }
 
@@ -296,7 +307,7 @@ body {
   background-color: #eae2b7;
   width: 270px;
   height: 170px;
-  top: -90px;
+  top: -150px;
   left: 15px;
   box-shadow: -5px -5px 100px rgba(0, 0, 0, 0.4);
 }
