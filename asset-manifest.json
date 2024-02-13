@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/val-app/static/css/main.d301e36d.css",
-    "main.js": "/val-app/static/js/main.a566cc57.js",
+    "main.css": "/val-app/static/css/main.4b3d2dd9.css",
+    "main.js": "/val-app/static/js/main.34ed6f6d.js",
     "index.html": "/val-app/index.html",
-    "main.d301e36d.css.map": "/val-app/static/css/main.d301e36d.css.map",
-    "main.a566cc57.js.map": "/val-app/static/js/main.a566cc57.js.map"
+    "main.4b3d2dd9.css.map": "/val-app/static/css/main.4b3d2dd9.css.map",
+    "main.34ed6f6d.js.map": "/val-app/static/js/main.34ed6f6d.js.map"
   },
   "entrypoints": [
-    "static/css/main.d301e36d.css",
-    "static/js/main.a566cc57.js"
+    "static/css/main.4b3d2dd9.css",
+    "static/js/main.34ed6f6d.js"
   ]
 }
