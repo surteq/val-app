@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/val-app/static/css/main.d301e36d.css",
+    "main.js": "/val-app/static/js/main.a566cc57.js",
+    "index.html": "/val-app/index.html",
+    "main.d301e36d.css.map": "/val-app/static/css/main.d301e36d.css.map",
+    "main.a566cc57.js.map": "/val-app/static/js/main.a566cc57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d301e36d.css",
+    "static/js/main.a566cc57.js"
+  ]
+}
